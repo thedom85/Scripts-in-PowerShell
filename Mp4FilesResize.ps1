@@ -1,3 +1,13 @@
+/* 
+#– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+#Title : Scripts-in-PowerShell
+#Author : Domenico Zinzi
+#URL : https://github.com/thedom85/Scripts-in-PowerShell/edit/master/Mp4FilesResize.ps1
+#Description : Resize quolity mp4 e mov  
+#Created : 2017/05/01
+#Modified : 
+#– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+#
 
 $cmdName="ffmpeg"
 $cmdName2="choco"
