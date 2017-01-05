@@ -3,7 +3,7 @@
 #Title : Scripts-in-PowerShell
 #Author : Domenico Zinzi
 #URL : https://github.com/thedom85/Scripts-in-PowerShell/edit/master/Mp4FilesResize.ps1
-#Description : Resize quolity mp4 e mov  
+#Description : Resize quolity mp4 , mov  
 #Created : 2017/05/01
 #Modified : 
 #– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
