@@ -7,7 +7,8 @@
 #Created : 2017/05/01
 #Modified : 
 #– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
-#
+
+#open windows powershell (run as administrator)
 
 $cmdName="ffmpeg"
 $cmdName2="choco"
