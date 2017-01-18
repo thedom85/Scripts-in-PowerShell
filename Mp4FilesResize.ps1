@@ -1,6 +1,6 @@
 /* 
 #– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
-#Title : Scripts-in-PowerShell
+#Title : Scripts-in-PowerShell Mp4FilesResize.ps1
 #Author : Domenico Zinzi
 #URL : https://github.com/thedom85/Scripts-in-PowerShell/edit/master/Mp4FilesResize.ps1
 #Description : Resize quolity mp4 , mov  
