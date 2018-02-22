@@ -1,10 +1,9 @@
 #– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
 #Title : Scripts-in-PowerShell install_The_Essential_In_New_Machines.ps1
 #Author : Domenico Zinzi
-#URL : 
+#URL : https://github.com/thedom85/Scripts-in-PowerShell/blob/master/Install_The_Essential_In_New_Machines
 #Description : Resize quolity mp4 , mov  
 #Created : 2018/02/22
-#Modified : 
 #– – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
 
 #How to run :
