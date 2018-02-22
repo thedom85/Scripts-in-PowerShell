@@ -20,14 +20,14 @@ $cmdName2="choco"
       Write-Host "#Installing Chocolatey #"
       Write-Host "######################################################"
       
-      set-executionpolicy remotesigned
-      iex ((new-object net.webclient).DownloadString('http://bit.ly/psChocInstall'))
+      #set-executionpolicy remotesigned
+      #iex ((new-object net.webclient).DownloadString('http://bit.ly/psChocInstall'))
+      Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
       Write-Host
  }
  Write-Host "############################################"
  Write-Host "# Installing applications from Chocolatey  #"
  Write-Host "############################################"
  Write-Host
-Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 choco install -y googlechrome firefox thunderbird putty kitty winscp.install adobereader 7zip.install notepadplusplus.install vlc sysinternals filezilla pdfcreator paint.net treesizefree azcopy totalcommander opera vivaldi sql-server-management-studio office365proplus
 choco upgrade -y all
